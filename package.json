@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "source": "index.html",
-  "homepage": "https://skylinehr31.github.io/parcel-test/",
+  "homepage": "https://skylinehr31.github.io/parcel-test",
   "scripts": {
     "start": "parcel serve index.html --open --no-cache",
     "build": "parcel build --no-cache",
