@@ -5,7 +5,7 @@
   "source": "index.html",
   "scripts": {
     "start": "parcel serve index.html --open --no-cache",
-    "build": "parcel build --no-cache",
+    "build": "parcel build --no-cache ./*.html --public-url https://skylinehr31.github.io/parcel-test",
     "deploy": "gh-pages -b deploy-branch -d dist"
   },
   "author": "",
