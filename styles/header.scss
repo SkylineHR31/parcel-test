@@ -1,0 +1,28 @@
+.header {
+    border-bottom: 1px solid #CCCCCC;
+    padding: 34px 5px;
+
+    &__nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__left {
+        display: flex;
+        align-items: center;
+        gap: 57px;
+    }
+
+    &__right {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+    }
+}
